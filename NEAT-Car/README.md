@@ -1,14 +1,6 @@
-# NEAT-Car
-
-
- Neat Mimarisi kullanılarak araç sürmeyi öğrenen yapay zeka
-
-
-* Kütüphaneler:
-
-neat-python == 0.92
-
-pygame == 2.5.2
+# 🚗 NEAT-Car
+TR: Bu projede, yapay zeka aracı nasıl süreceğini sıfırdan öğrenir. Başta rastgele hareket ederken, her nesilde yol dışına çıkmadan daha uzun mesafe gitmeyi öğrenir.
+EN: In this project, the AI learns how to drive from scratch. It starts by moving randomly and gradually learns to drive longer distances without veering off the track.
 
 
 
