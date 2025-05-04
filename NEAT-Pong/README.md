@@ -26,6 +26,6 @@ NEAT algoritması, sinir ağlarını evrimleştirerek genetik algoritmaların na
 
 ---
 
-![Demo](video/video.mp4)
+![GİF](video/demo.gif)
 
 
