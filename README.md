@@ -8,7 +8,11 @@
 
 🧠 **A comprehensive collection of AI projects showcasing evolutionary neural networks**
 
+---
+
 [🇬🇧 English](#english) | [🇹🇷 Türkçe](#türkçe)
+
+---
 
 </div>
 
