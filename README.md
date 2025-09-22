@@ -10,7 +10,7 @@
 
 ---
 
-[🇬🇧 English](#🇬🇧English) | [🇹🇷 Türkçe](#türkçe)
+[🇬🇧 English](#English) | [🇹🇷 Türkçe](#türkçe)
 
 ---
 
@@ -18,7 +18,9 @@
 
 ---
 
-## 🇬🇧English
+## English
+
+## 🇬🇧
 
 ### About This Collection
 
@@ -78,7 +80,9 @@ The NEAT algorithm creates remarkable learning experiences by:
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
+
+## 🇹🇷 
 
 ### Koleksiyon Hakkında
 
