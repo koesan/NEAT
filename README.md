@@ -18,7 +18,7 @@
 
 ---
 
-## 🇬🇧 English
+## 🇬🇧English
 
 ### About This Collection
 
