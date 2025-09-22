@@ -10,7 +10,7 @@
 
 ---
 
-[🇬🇧 English](#english) | [🇹🇷 Türkçe](#türkçe)
+[🇬🇧 English](#🇬🇧 English) | [🇹🇷 Türkçe](#türkçe)
 
 ---
 
